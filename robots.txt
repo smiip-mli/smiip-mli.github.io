@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://smiip-mli.github.io/sitemap.xml
