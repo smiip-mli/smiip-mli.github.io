@@ -12,8 +12,9 @@ Adjunct Professor, School of Artificial Intelligence, Wuhan University
 
 **Education:**
 
-- Ph.D. in Electrical Engineering, University of Southern California, 2013
-- B.E. in Electronics and Information Engineering, Northwestern Polytechnical University, Xi'an, China
+- Ph.D. in Electrical Engineering, University of Southern California, 2013 (Advisor: [Prof. Shrikanth (Shri) Narayanan](https://sail.usc.edu/people/shri.html))
+- M.E. in Signal and Information Processing, Institute of Acoustics, Chinese Academy of Sciences
+- B.E. in Telecommunication Engineering, Nanjing University
 
 **Previous Positions:**
 
