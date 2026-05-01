@@ -13,7 +13,7 @@ profile:
     <p>Chinese University of Hong Kong, Shenzhen</p>
     <p>Shenzhen, Guangdong, China</p>
 
-news: false
+news: true
 selected_papers: false
 social: false
 ---
@@ -31,6 +31,5 @@ Gathering, analyzing, modeling and interpreting multimodal human behavior signal
 **Pathological Speech Processing:**
 Laryngoscopic audio-visual signal processing, electronic laryngeal voice conversion.
 
----
 
-**Prof. Ming Li** has joined the **School of Artificial Intelligence** at the **Chinese University of Hong Kong, Shenzhen** since May 2026.
+
