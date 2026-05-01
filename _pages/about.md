@@ -30,6 +30,3 @@ Gathering, analyzing, modeling and interpreting multimodal human behavior signal
 
 **Pathological Speech Processing:**
 Laryngoscopic audio-visual signal processing, electronic laryngeal voice conversion.
-
-
-
