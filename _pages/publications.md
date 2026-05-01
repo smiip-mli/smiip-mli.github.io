@@ -15,6 +15,15 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+## Journal Papers
+
+<em>(# denotes the corresponding author, \* denotes supervised students, interns or research fellows in Ming's lab)</em>
+
+{% bibliography --query @article %}
+
+## Conference Papers
+
+{% bibliography --query @inproceedings %}
+{% bibliography --query @misc %}
 
 </div>
