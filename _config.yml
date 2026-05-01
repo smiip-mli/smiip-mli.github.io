@@ -109,7 +109,7 @@ contact_note: >
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics:
+google_analytics: G-GYWXBQ4PLB
 cronitor_analytics:
 pirsch_analytics:
 google_site_verification:
@@ -385,7 +385,7 @@ lazy_loading_images: true
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics: false
+enable_google_analytics: true
 enable_cronitor_analytics: false
 enable_pirsch_analytics: false
 enable_google_verification: false
