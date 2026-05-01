@@ -1,11 +1,13 @@
 {% if site.footer_fixed %}
   <footer class="fixed-bottom" role="contentinfo">
     <div class="container mt-0">
-      <script
-        type="text/javascript"
-        id="clustrmaps"
-        src="//clustrmaps.com/map_v2.js?d=MW2n00VvEAro1Dfd4RtZncycwbhXTt8OHyNtwdp3Orc&cl=ffffff&w=a"
-      ></script>
+      <div style="max-width: 200px; margin: 0 auto 10px auto;">
+        <script
+          type="text/javascript"
+          id="clustrmaps"
+          src="//clustrmaps.com/map_v2.js?d=MW2n00VvEAro1Dfd4RtZncycwbhXTt8OHyNtwdp3Orc&cl=ffffff&w=a"
+        ></script>
+      </div>
       &copy; Copyright {{ site.time | date: '%Y' }}
       {{ site.first_name }}
       {{ site.middle_name }}
