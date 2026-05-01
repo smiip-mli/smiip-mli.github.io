@@ -5,10 +5,8 @@ title: Prof. Ming Li
 
 **Prof. Ming Li, Ph.D.**
 
-Professor of Electrical and Computer Engineering
-Duke Kunshan University
-
-(Starting May 2026) Full Professor, Department of Artificial Intelligence, Chinese University of Hong Kong, Shenzhen
+Professor, School of Artificial Intelligence
+Chinese University of Hong Kong, Shenzhen
 
 Adjunct Professor, School of Artificial Intelligence, Wuhan University
 
@@ -19,7 +17,8 @@ Adjunct Professor, School of Artificial Intelligence, Wuhan University
 
 **Previous Positions:**
 
-- Research Scholar, Department of Electrical and Computer Engineering, Duke University (2018-2013)
+- Research Scholar, Department of Electrical and Computer Engineering, Duke University (2013-2018)
+- Full Professor of Electrical and Computer Engineering, Duke Kunshan University (2018-2026)
 - Adjunct Professor, Department of Electrical and Computer Engineering, Carnegie Mellon University (2015-2018)
 
 **Research Interests:**

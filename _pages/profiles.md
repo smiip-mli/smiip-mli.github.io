@@ -13,6 +13,7 @@ profiles:
     image_circular: false
     more_info: >
       <p>Full Professor</p>
-      <p>Duke Kunshan University</p>
-      <p>Kunshan, Jiangsu, China</p>
+      <p>School of Artificial Intelligence</p>
+      <p>Chinese University of Hong Kong, Shenzhen</p>
+      <p>Shenzhen, Guangdong, China</p>
 ---

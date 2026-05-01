@@ -6,13 +6,13 @@ title: "SMIIP Lab" # the website title
 first_name: Ming
 middle_name: ""
 last_name: Li
-email: ming.li369@dukekunshan.edu.cn
+email: ming.li369@cuhk.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Speech and Multimodal Intelligent Information Processing (SMIIP) Lab at Duke Kunshan University
+  Speech and Multimodal Intelligent Information Processing (SMIIP) Lab at the Chinese University of Hong Kong, Shenzhen
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: speech processing, multimodal, speaker recognition, diarization, autism, pathological speech, DKU
+keywords: speech processing, multimodal, speaker recognition, diarization, autism, pathological speech, CUHK Shenzhen
 lang: en
 icon: 🔬
 
@@ -180,7 +180,7 @@ announcements:
   limit: 5
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 3
 
