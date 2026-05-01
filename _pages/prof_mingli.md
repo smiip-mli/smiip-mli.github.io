@@ -1,8 +1,3 @@
----
-layout: about
-title: Prof. Ming Li
----
-
 **Prof. Ming Li, Ph.D.**
 
 Professor, School of Artificial Intelligence
