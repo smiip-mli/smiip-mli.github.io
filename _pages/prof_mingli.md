@@ -2,6 +2,7 @@
 layout: about
 title: Prof. Ming Li
 ---
+
 **Prof. Ming Li, Ph.D.**
 
 Professor of Electrical and Computer Engineering
@@ -12,10 +13,12 @@ Duke Kunshan University
 Adjunct Professor, School of Artificial Intelligence, Wuhan University
 
 **Education:**
+
 - Ph.D. in Electrical Engineering, University of Southern California, 2013
 - B.E. in Electronics and Information Engineering, Northwestern Polytechnical University, Xi'an, China
 
 **Previous Positions:**
+
 - Research Scholar, Department of Electrical and Computer Engineering, Duke University (2018-2013)
 - Adjunct Professor, Department of Electrical and Computer Engineering, Carnegie Mellon University (2015-2018)
 
@@ -23,6 +26,7 @@ Adjunct Professor, School of Artificial Intelligence, Wuhan University
 Audio, speech and language processing; multimodal behavior signal analysis and interpretation.
 
 **Professional Service:**
+
 - Member, IEEE Speech and Language Technical Committee
 - Member, CCF Speech Dialogue and Auditory Processing Technical Committee
 - Member, CAAI Affective Intelligence Technical Committee
