@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: Members of the Speech and Multimodal Intelligent Information Processing Lab
+#title: people
+#description: Members of the Speech and Multimodal Intelligent Information Processing Lab
 nav: true
 nav_order: 1
 
