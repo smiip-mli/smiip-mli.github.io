@@ -21,13 +21,13 @@ nav_order: 7
 
 **Co-supervised Ph.D. Students:**
 
-1. Fei Su, Wuhan University, 2023–, co-supervised with Prof. Juan Liu from Wuhan University
-2. Yucong Zhang, Wuhan University, 2023–, co-supervised with Prof. Juan Liu from Wuhan University
-3. Zexin Cai, Duke University, 2019–2023, co-supervised with Prof. Xin Li from Duke University
-4. Danwei Cai, Duke University, 2019–2023, co-supervised with Prof. Xin Li from Duke University
-5. Weiqing Wang, Duke University, 2019–2023, co-supervised with Prof. Xin Li from Duke University
-6. Wenbo Liu, Sun Yat-sen University & Carnegie Mellon University, 2014–2022, co-supervised with Prof. Bhiksha Raj from Carnegie Mellon University
-7. Weicheng Cai, Sun Yat-sen University, 2016–2020, co-supervised with Prof. Jun Zhang from Sun Yat-sen University
+1. Fei Su, Wuhan University, 2023–, co-supervised with Prof. Juan Liu
+2. Yucong Zhang, Wuhan University, 2023–, co-supervised with Prof. Juan Liu
+3. Zexin Cai, Duke University, 2019–2023, co-supervised with Prof. Xin Li
+4. Danwei Cai, Duke University, 2019–2023, co-supervised with Prof. Xin Li
+5. Weiqing Wang, Duke University, 2019–2023, co-supervised with Prof. Xin Li
+6. Wenbo Liu, Sun Yat-sen University & Carnegie Mellon University, 2014–2022, co-supervised with Prof. Bhiksha Raj
+7. Weicheng Cai, Sun Yat-sen University, 2016–2020, co-supervised with Prof. Jun Zhang
 
 **Supervised Master Students:**
 
