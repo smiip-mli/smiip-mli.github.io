@@ -8,11 +8,11 @@ Adjunct Professor, School of Artificial Intelligence, Wuhan University
 **Education:**
 
 **Ph.D.** in Electrical Engineering, University of Southern California, Los Angeles, USA (2008.08-2013.08)
-- Signal Analysis and Interpretation Laboratory [https://sail.usc.edu/](https://sail.usc.edu/)
+- [Signal Analysis and Interpretation Laboratory](https://sail.usc.edu/)
 - Advisor: [Prof. Shrikanth Narayanan](https://sail.usc.edu/people/shri.html)
 
 **M.Eng.** in Signal and Information Processing, Institute of Acoustics, Chinese Academy of Sciences, Beijing, China (2005.09-2008.07)
-- Key Lab of Speech Acoustics and Content Understanding [https://hccl.ioa.ac.cn/](https://hccl.ioa.ac.cn/)
+- [Key Lab of Speech Acoustics and Content Understanding](http://english.ioa.cas.cn/lab/)
 - Advisor: [Prof. Yonghong Yan](https://people.ucas.ac.cn/~yanyonghong)
 
 **B.Eng.** in Telecommunications Engineering, Nanjing University, Nanjing, China (2001.09-2005.06)
@@ -20,7 +20,7 @@ Adjunct Professor, School of Artificial Intelligence, Wuhan University
 **Employment:**
 
 **The Chinese University of Hong Kong, Shenzhen** — Shenzhen, China
-- Full Professor (Tenure-Track), School of Artificial Intelligence (2026.5–present)
+- Full Professor, School of Artificial Intelligence (2026.5–present)
 
 **Duke Kunshan University** — Kunshan, China
 - Professor of Electrical and Computer Engineering, Division of Natural and Applied Science (2024.11–2026.5)
