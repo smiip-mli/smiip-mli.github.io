@@ -24,9 +24,16 @@ nav_order: 6
 - Interspeech 2022 Satellite Workshop, Far-Field Speaker Verification Challenge (FFSVC)
 - The Speech Home Conference on Speech Technology 2022
 
-**Area Chair**
-- Speaker and Language Recognition track at INTERSPEECH 2016, INTERSPEECH 2018 and INTERSPEECH 2020
-- Paralinguistics track at INTERSPEECH 2024, INTERSPEECH 2025
+**Associate Editor or Editorial Board Member**
+- IEEE/ACM Transactions on Audio, Speech, and Language Processing (2025–present)
+- Computer Speech and Language (2021–present)
+- APSIPA Transactions on Signal and Information Processing (2022–present)
+
+**Area Chair or Meta Reviewer**
+- INTERSPEECH 2016, 2018, 2020, 2024, 2025, 2026
+- ICASSP 2019-2026
+- ASRU 2025
+- SLT 2022, 2026
 
 **Local Organization Chair**
 - The 21th ACM International Conference on Multimodal Interaction (ICMI) 2019
@@ -39,16 +46,12 @@ nav_order: 6
 - The Symposium on Speaker Recognition Research and Application 2019
 - The Symposium on AI based Assistive Diagnoses and Treatment for Autism Spectrum Disorders 2018
 
-**Associate Editor or Editorial Board Member**
-- IEEE/ACM Transactions on Audio, Speech, and Language Processing (2025–present)
-- Computer Speech and Language (2021–present)
-- APSIPA Transactions on Signal and Information Processing (2022–present)
-
 **Guest Associate Editor**
 - Computer Speech and Language, special issue: Speech and Language Processing for Behavioral and Mental Health Applications, 2018
 - APSIPA Transaction on Signal and Information Processing, special issue: Affect, Emotion and Behavior Processing in Human-Machine Interaction, 2018
 
 **International Challenge Organizers**
+- ESDD2 2026: Environment-Aware Speech and Sound Deepfake Detection Challenge[https://sites.google.com/view/esdd-challenge/esdd-challenges/esdd-2/description](https://sites.google.com/view/esdd-challenge/esdd-challenges/esdd-2/description)
 - SLT 2024: Source Speaker Tracing Challenge (SSTC2024) [https://sstc-challenge.github.io/](https://sstc-challenge.github.io/)
 - SLT 2024: Stuttering Speech Challenge
 - SLT 2024: Low-Resource Dysarthria Wake-Up Word Spotting Challenge (LRDWWS Challenge) [http://lrdwws.org/](http://lrdwws.org/)
