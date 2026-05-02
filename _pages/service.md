@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /service/
-title: service
-description: Professional services and activities
+#title: service
+#description: Professional services and activities
 nav: true
 nav_order: 6
 ---
