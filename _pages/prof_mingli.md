@@ -53,4 +53,4 @@ Adjunct Professor, School of Artificial Intelligence, Wuhan University
 **Research Interests:**
 Audio, speech and language processing; multimodal behavior signal analysis and interpretation.
 
-[Google Scholar](https://scholar.google.com/citations?user=zp2Kz44AAAAJ&hl=zh-CN)
+[Google Scholar](https://scholar.google.com/citations?user=zp2Kz44AAAAJ)

@@ -47,4 +47,4 @@ Haoxu Wang, Fan Yu, Xian Shi, Yuezhang Wang, Shiliang Zhang, Ming Li, "Slidespee
 
 ## Google Scholar
 
-[Prof. Ming Li - Google Scholar](https://scholar.google.com/citations?user=zp2Kz44AAAAJ&hl=zh-CN)
+[Prof. Ming Li - Google Scholar](https://scholar.google.com/citations?user=zp2Kz44AAAAJ)
