@@ -73,4 +73,5 @@ nav_order: 6
 
 - National Natural Science Foundation of China (2018–present)
 - Research Grants Council (RGC) of Hong Kong (2019–present)
+- Research Foundation Flanders (FWO), 2025, 2026
 - Israeli Ministry of Science and Technology (2021-2024)
