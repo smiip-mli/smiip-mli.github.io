@@ -15,4 +15,5 @@ profiles:
       <p>Full Professor, School of Artificial Intelligence</p>
       <p>Chinese University of Hong Kong, Shenzhen</p>
       <p>Shenzhen, Guangdong, China</p>
+      <img src="/assets/img/email.svg" alt="email" style="margin-top:6px;">
 ---

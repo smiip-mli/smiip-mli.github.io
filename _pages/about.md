@@ -12,6 +12,7 @@ profile:
     <p>Prof. Ming Li, Ph.D.</p>
     <p>Chinese University of Hong Kong, Shenzhen</p>
     <p>Shenzhen, Guangdong, China</p>
+    <img src="/assets/img/email.svg" alt="email" style="margin-top:6px;">
 
 news: true
 selected_papers: false
@@ -40,7 +41,6 @@ Our research interests lie in the areas of **intelligent speech processing** as 
 - Audio-Visual Emotion-aware Spoken Dialog System
 - AI Agent-Based Spoken Dialog System
 
-<br>
 <br>
 <br>
 
