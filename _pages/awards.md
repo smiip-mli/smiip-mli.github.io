@@ -8,16 +8,19 @@ nav_order: 3
 ---
 
 **Individual Honors**
-
+- OPPO Excellent Industry-Academia Research Cooperation Partner, 2025
+- OPPO Excellent Industry-Academia Research Cooperation Partner, 2024
+- Interspeech 2024 Best Student Paper Shortlist
+- DKU ECE Teaching Award, 2024
+- DKU ECE Teaching Award, 2023
+- Excellent Research Paper Award of Suzhou City 2020-2021
 - Youth Achievement Award of Outstanding Achievements in Scientific Research in Chinese Higher Education, 2020
 - CCF-Tencent Rhino-Bird Foundation Excellence Award, 2019
+- Excellent Research Paper Award of Suzhou City 2018-2019
 - ISCA Award for the best paper published in Computer Speech and Language (2013-2017), 2016
-- IBM Faculty Award
+- IBM Faculty Award, 2016
 - ISCSLP 2014 Best Student Paper Award
 - IEEE DCOSS 2009 Best Paper Award
-- DKU ECE Teaching Award, 2023
-- DKU ECE Teaching Award, 2024
-- Interspeech 2024 Best Student Paper Shortlist
 
 **Challenge Competition Awards**
 
