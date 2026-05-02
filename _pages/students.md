@@ -6,9 +6,6 @@ description: Current and past lab students supervised by Prof. Ming Li
 nav: true
 nav_order: 7
 ---
-
-**STUDENTS**
-
 **Supervised Ph.D. Students:**
 
 1. Wang Xiang, Wuhan University, 2025–
