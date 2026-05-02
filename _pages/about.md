@@ -23,10 +23,27 @@ social: false
 Our research interests lie in the areas of **intelligent speech processing** as well as **multimodal behavior signal analysis and interpretation**.
 
 **Intelligent Speech Processing:**
+Multi-channel, Multi-speaker, Multi-lingual, Multi-modal, Multi-task, Online Speech Perception
+Generalized Target Speaker Extraction in Complex Scenarios
+Manipulate, Generate and Hide Speaker’s Timbre Attributes
+Speech Generation, Watermarking and Anti-Spoofing Countermeasure
 
 **Multimodal Behavior Signal Analysis and Interpretation:**
+Audio-Visual Behavior Understanding in ASD Diagnose and Assessment
+AI Agent for ASD Behavior Understanding and Intervention Planning
+Audio-Visual Laryngoscopy Data Analysis
 
-**Pathological Speech Processing:**
+**Spoken Dialog System:**
+Audio-Visual Emotion-aware Spoken Dialog System
+AI Agent-Based Spoken Dialog System
+
+
+
+
+
+
+
+
 
 **Prof. Ming Li's Bio:**
 
