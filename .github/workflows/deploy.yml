@@ -30,8 +30,6 @@ jobs:
         with:
           ruby-version: "3.2"
           bundler-cache: true
-      - name: Install Jupyter (for notebook support)
-        run: pip3 install --upgrade jupyter
       - name: Build site
         run: |
           export JEKYLL_ENV=production
