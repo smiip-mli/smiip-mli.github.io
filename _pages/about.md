@@ -13,6 +13,7 @@ profile:
     <p>Chinese University of Hong Kong, Shenzhen</p>
     <p>Shenzhen, Guangdong, China</p>
     <img src="/assets/img/email.svg" alt="email" style="margin-top:6px;">
+    <a href="https://scholar.google.com/citations?user=zp2Kz44AAAAJ" target="_blank"><img src="/assets/img/google_scholar.svg" alt="Google Scholar" style="margin-top:4px;"></a>
 
 news: true
 selected_papers: false

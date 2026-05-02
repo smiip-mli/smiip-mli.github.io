@@ -13,6 +13,8 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+<a href="https://scholar.google.com/citations?user=zp2Kz44AAAAJ" target="_blank" style="display:inline-block;margin-bottom:1rem;"><img src="/assets/img/google_scholar.svg" alt="Google Scholar"></a>
+
 <div class="publications">
 
 {% bibliography %}
