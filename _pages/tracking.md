@@ -2,7 +2,7 @@
 layout: page
 title: tracking
 permalink: /tracking/
-nav: true
+nav: false
 nav_order: 6
 ---
 
