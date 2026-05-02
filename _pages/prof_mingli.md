@@ -20,7 +20,7 @@ Adjunct Professor, School of Artificial Intelligence, Wuhan University
 **Employment:**
 
 **The Chinese University of Hong Kong, Shenzhen** — Shenzhen, China
-- Full Professor, School of Artificial Intelligence (2026.5–present)
+- Professor, School of Artificial Intelligence (2026.5–present)
 
 **Duke Kunshan University** — Kunshan, China
 - Professor of Electrical and Computer Engineering, Division of Natural and Applied Science (2024.11–2026.5)
