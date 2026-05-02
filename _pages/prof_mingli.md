@@ -7,27 +7,42 @@ Adjunct Professor, School of Artificial Intelligence, Wuhan University
 
 **Education:**
 
-- Ph.D. in Electrical Engineering, University of Southern California, 2013 (Advisor: [Prof. Shrikanth (Shri) Narayanan](https://sail.usc.edu/people/shri.html))
-- M.E. in Signal and Information Processing, Institute of Acoustics, Chinese Academy of Sciences (Advisor: [Prof. Yonghong Yan](http://english.ioa.cas.cn/pe/fas/200909/t20090914_37884.html))
-- B.E. in Telecommunication Engineering, Nanjing University
+**Ph.D.** in Electrical Engineering, University of Southern California, Los Angeles, USA (2008.08-2013.08)
+- Signal Analysis and Interpretation Laboratory [https://sail.usc.edu/](https://sail.usc.edu/)
+- Advisor: [Prof. Shrikanth Narayanan](https://sail.usc.edu/people/shri.html)
 
-**Previous Positions:**
+**M.Eng.** in Signal and Information Processing, Institute of Acoustics, Chinese Academy of Sciences, Beijing, China (2005.09-2008.07)
+- Key Lab of Speech Acoustics and Content Understanding [https://hccl.ioa.ac.cn/](https://hccl.ioa.ac.cn/)
+- Advisor: [Prof. Yonghong Yan](https://people.ucas.ac.cn/~yanyonghong)
 
-- Research Scholar, Department of Electrical and Computer Engineering, Duke University (2013-2018)
-- Full Professor of Electrical and Computer Engineering, Duke Kunshan University (2018-2026)
-- Adjunct Professor, Department of Electrical and Computer Engineering, Carnegie Mellon University (2015-2018)
+**B.Eng.** in Telecommunications Engineering, Nanjing University, Nanjing, China (2001.09-2005.06)
+
+**Employment:**
+
+**The Chinese University of Hong Kong, Shenzhen** — Shenzhen, China
+- Full Professor (Tenure-Track), School of Artificial Intelligence (2026.5–present)
+
+**Duke Kunshan University** — Kunshan, China
+- Professor of Electrical and Computer Engineering, Division of Natural and Applied Science (2024.11–2026.5)
+- Associate Professor of Electrical and Computer Engineering with Tenure, Division of Natural and Applied Science (2022.09–2024.11)
+- Principal Research Scientist, Digital Innovation Research Center (2021.01–2026.5)
+- Associate Professor of Electrical and Computer Engineering, Division of Natural and Applied Science (2018.03–2022.08)
+
+**Duke University** — Durham, USA
+- Research Scholar, Department of Electrical and Computer Engineering (2018.06–2023.12)
+
+**Wuhan University** — Wuhan, China
+- Adjunct Professor, School of Computer Science (2018.11–present)
+
+**Sun Yat-sen University** — Guangzhou, China
+- Associate Professor, School of Electronics and Information Technology (2017.04–2018.02)
+- Assistant Professor, SYSU-CMU Joint Institute of Engineering (2013.09–2017.04)
+
+**Carnegie Mellon University** — Pittsburgh, USA
+- Visiting Professor, Department of Electrical and Computer Engineering (2013.08–2014.07)
+- Adjunct Professor, Department of Electrical and Computer Engineering (2015.03–2018.01)
 
 **Research Interests:**
 Audio, speech and language processing; multimodal behavior signal analysis and interpretation.
-
-**Professional Service:**
-
-- Member, IEEE Speech and Language Technical Committee
-- Member, CCF Speech Dialogue and Auditory Processing Technical Committee
-- Member, CAAI Affective Intelligence Technical Committee
-- Member, APSIPA Speech and Language Processing Technical Committee
-- Area Chair: Interspeech 2016, 2018, 2020, 2024, 2025; SLT 2022; ASRU 2025
-- Technical Program Co-chair: Odyssey 2022, ASRU 2023
-- Editorial Member: IEEE/ACM TASLP, Computer Speech and Language, APSIPA Transactions on Signal and Information Processing
 
 [Google Scholar](https://scholar.google.com/citations?user=zp2Kz44AAAAJ&hl=zh-CN)
