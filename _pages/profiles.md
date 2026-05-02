@@ -12,8 +12,7 @@ profiles:
     content: prof_mingli.md
     image_circular: false
     more_info: >
-      <p>Full Professor</p>
-      <p>School of Artificial Intelligence</p>
+      <p>Full Professor, School of Artificial Intelligence</p>
       <p>Chinese University of Hong Kong, Shenzhen</p>
       <p>Shenzhen, Guangdong, China</p>
 ---
