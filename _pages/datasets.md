@@ -50,21 +50,21 @@ Haoxu Wang, Fan Yu, Xian Shi, Yuezhang Wang, Shiliang Zhang, Ming Li, "Slidespee
 **VoxBlink2**      Yuke Lin, Ming Cheng, Fulin Zhang, Yingying Gao, Shilei Zhang, Ming Li, "VoxBlink2: A 100K+ Speaker Recognition Corpus and the Open-Set Speaker-Identification Benchmark", Interspeech 2024.
 [VoxBlink2: A 100K+ Speaker Recognition Corpus and Open-Set Speaker-Identification Benchmark](https://voxblink2.github.io/)
 
-**SMIIP-NV**       Zhuojun Wu, Dong Liu, Juan Liu, Yechen Wang, Linxi Li, Liwei Jin, Hui Bu, Pengyuan zhang, Ming Li, “SMIIP-NV: A Multi-Annotation Non-Verbal Expressive Speech Corpus in Mandarin for LLM-Based Speech Synthesis“, ACM Multimedia 2025.  https://axunyii.github.io/SMIIP-NV/
+**SMIIP-NV**       Zhuojun Wu, Dong Liu, Juan Liu, Yechen Wang, Linxi Li, Liwei Jin, Hui Bu, Pengyuan zhang, Ming Li, “SMIIP-NV: A Multi-Annotation Non-Verbal Expressive Speech Corpus in Mandarin for LLM-Based Speech Synthesis“, ACM Multimedia 2025.  [https://axunyii.github.io/SMIIP-NV/](https://axunyii.github.io/SMIIP-NV/)
 
-**SMIIP-TV**      Xiaoyi Qin, Na Li, Shufei Duan, Ming Li, “Investigating Long-Term and Short-Term Time-Varying Speaker Verification“, IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2024. https://openslr.org/156/
+**SMIIP-TV**      Xiaoyi Qin, Na Li, Shufei Duan, Ming Li, “Investigating Long-Term and Short-Term Time-Varying Speaker Verification“, IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2024. [https://openslr.org/156/](https://openslr.org/156/)
 
-**VCapAV**        Yuxi Wang, Yikang Wang, Qishan Zhang, Hiromitsu Nishizaki, Ming Li, “VCapAV: A Video-Caption Based Audio-Visual Deepfake Detection Dataset“, Interspeech 2025. https://vcapav.github.io/
+**VCapAV**        Yuxi Wang, Yikang Wang, Qishan Zhang, Hiromitsu Nishizaki, Ming Li, “VCapAV: A Video-Caption Based Audio-Visual Deepfake Detection Dataset“, Interspeech 2025. [https://vcapav.github.io/](https://vcapav.github.io/)
 
-**SSTC24**        Ze Li, Yuke Lin, Yao Tian, Hongbin Suo, Pengyuan zhang, Yanzhen Ren, Zexin Cai, Hiromitsu Nishizaki, Ming Li, “The Database and Benchmark for the Source Speaker Tracing Challenge 2024”, SLT 2024. https://sstc-challenge.github.io/
+**SSTC24**        Ze Li, Yuke Lin, Yao Tian, Hongbin Suo, Pengyuan zhang, Yanzhen Ren, Zexin Cai, Hiromitsu Nishizaki, Ming Li, “The Database and Benchmark for the Source Speaker Tracing Challenge 2024”, SLT 2024. [https://sstc-challenge.github.io/](https://sstc-challenge.github.io/)
 
-**TMCSpeech**     Dong Liu, Yueqian Lin, Yunfei Xu, Ming Li, “TMCSpeech: A Chinese TV and Movie Speech Dataset with Character Descriptions and a Character-Based Voice Generation Model“, ICPR 2024. https://raydonld.github.io/TMCSPEECH/
+**TMCSpeech**     Dong Liu, Yueqian Lin, Yunfei Xu, Ming Li, “TMCSpeech: A Chinese TV and Movie Speech Dataset with Character Descriptions and a Character-Based Voice Generation Model“, ICPR 2024. [https://raydonld.github.io/TMCSPEECH/](https://raydonld.github.io/TMCSPEECH/)
 
-**TheSound-test**	Xiaoyi Qin, Ze Li, Dong Liu, Ming Li, “Speaker verification in deliberately disguised scenarios”, Computer Engineering and Applications, 2024. https://github.com/DDS-SV/TheSound-test
+**TheSound-test**	Xiaoyi Qin, Ze Li, Dong Liu, Ming Li, “Speaker verification in deliberately disguised scenarios”, Computer Engineering and Applications, 2024. [https://github.com/DDS-SV/TheSound-test](https://github.com/DDS-SV/TheSound-test)
 
-**AISHELL8-FISHEYE** Peijun Yang, Zhan Jin, Juan Liu, Hui Bu, and Ming Li, “A Fisheye Audio-Visual Dataset for Target Speaker Extraction with Distortion-Aware Baselines”. https://e181d4.github.io/AISHELL8-FISHEYE/
+**AISHELL8-FISHEYE** Peijun Yang, Zhan Jin, Juan Liu, Hui Bu, and Ming Li, “A Fisheye Audio-Visual Dataset for Target Speaker Extraction with Distortion-Aware Baselines”. [https://e181d4.github.io/AISHELL8-FISHEYE/](https://e181d4.github.io/AISHELL8-FISHEYE/)
 
-**AISHELL6-Whisper**  Cancan Li, Fei Su, Juan Liu, Hui Bu, Yulong Wan, Hongbin Suo, and Ming Li, “A Chinese Mandarin Audio-Visual Whisper Speech Dataset with Speech Recognition Baselines”, ICASSP, 2026. https://zutm.github.io/AISHELL6-Whisper/
+**AISHELL6-Whisper**  Cancan Li, Fei Su, Juan Liu, Hui Bu, Yulong Wan, Hongbin Suo, and Ming Li, “A Chinese Mandarin Audio-Visual Whisper Speech Dataset with Speech Recognition Baselines”, ICASSP, 2026. [https://zutm.github.io/AISHELL6-Whisper/](https://zutm.github.io/AISHELL6-Whisper/)
 
 
 ## Google Scholar
