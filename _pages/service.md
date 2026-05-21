@@ -62,7 +62,7 @@ nav_order: 6
 
 - ICME 2026: [Environment-Aware Speech and Sound Deepfake Detection Challenge (ESDD2)](https://sites.google.com/view/esdd-challenge/esdd-challenges/esdd-2/description)
 - SLT 2024: [Source Speaker Tracing Challenge (SSTC2024)](https://sstc-challenge.github.io/)
-- SLT 2024: [Stuttering Speech Challenge](https://stutteringspeech.org/)
+- SLT 2024: Stuttering Speech Challenge
 - SLT 2024: [Low-Resource Dysarthria Wake-Up Word Spotting Challenge (LRDWWS Challenge)](http://lrdwws.org/)
 - INTERSPEECH 2022: [Far Field Speaker Verification Challenge (FFSVC 22)](https://ffsvc.github.io)
 - INTERSPEECH 2020: [Far Field Speaker Verification Challenge (FFSVC 20)](http://2020.ffsvc.org/)
