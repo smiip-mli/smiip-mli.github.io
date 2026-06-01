@@ -10,7 +10,7 @@ Adjunct Professor, School of Artificial Intelligence, Wuhan University
 **Ph.D.** in Electrical Engineering, University of Southern California, Los Angeles, USA (2008.08-2013.08)
 
 - [Signal Analysis and Interpretation Laboratory](https://sail.usc.edu/)
-- Advisor: [Prof. Shrikanth Narayanan](https://sail.usc.edu/people/shri.html)
+- Advisor: [Prof. Shrikanth Narayanan](https://sail.usc.edu/people/shri.html) (Member of the U.S. National Academy of Engineering)
 
 **M.Eng.** in Signal and Information Processing, Institute of Acoustics, Chinese Academy of Sciences, Beijing, China (2005.09-2008.07)
 
