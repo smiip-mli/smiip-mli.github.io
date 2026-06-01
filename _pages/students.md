@@ -84,7 +84,7 @@ nav_order: 7
 6. Mingjing Yi, Duke Kunshan University, class of 2025，after graduation: Columbia
 7. Beilong Tang, Duke Kunshan University, class of 2025: after graduation: NCSU PhD
 8. Yuxi Wang, Duke Kunshan University, class of 2025, after graduation: NTU Mphil
-9. Yuchen Song, Duke Kunshan University, class of 2025, after graduation: USCD Master
+9. Yuchen Song, Duke Kunshan University, class of 2025, after graduation: UCSD Master
 10. Yiwei Liang, Duke Kunshan University, class of 2025, after graduation: USTC PhD
 11. Mohamed Sami Koudir, Duke Kunshan University, class of 2025
 12. Xingyu Shen, Duke Kunshan University, class of 2024, after graduation: Duke Master
