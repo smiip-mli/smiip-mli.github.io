@@ -22,7 +22,7 @@ social: false
 
 **Welcome to the SMIIP Lab!**
 
-Our research interests lie in the areas of **intelligent speech processing**, **Embodied Audition and Dialogue System** as well as **multimodal behavior signal analysis and interpretation**.
+Our research interests lie in the areas of **intelligent speech processing**, **embodied audition and dialogue system** as well as **multimodal behavior signal analysis and interpretation**.
 
 **Intelligent Speech Processing:**
 
