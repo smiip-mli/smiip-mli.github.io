@@ -35,11 +35,12 @@ Our research interests lie in the areas of **intelligent speech processing** as 
 
 - Audio-Visual Behavior Understanding in ASD Diagnose and Assessment
 - AI Agent for ASD Behavior Understanding and Intervention Planning
-- Audio-Visual Laryngoscopy Data Analysis
 
 **Spoken Dialog System:**
 
-- Audio-Visual Emotion-aware Spoken Dialog System
+- Embodied Audition and Dialogue System
+- Multi-speaker and Inteference-robust Spoken Dialogue System
+- Audio-Visual Behavior-aware Spoken Dialog System
 - AI Agent-Based Spoken Dialog System
 
 <br>
