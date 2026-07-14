@@ -28,7 +28,7 @@ Our research interests lie in the areas of **intelligent speech processing** as 
 
 - Multi-channel, Multi-speaker, Multi-lingual, Multi-modal, Multi-task, Online Speech Perception
 - Generalized Target Speaker Extraction in Complex Scenarios
-- Manipulate, Generate and Hide Speaker's Timbre Attributes
+- Recognize, Manipulate, Generate and Hide Speaker’s Paralinguistic Attributes
 - Speech Generation, Watermarking and Anti-Spoofing Countermeasure
 
 **Multimodal Behavior Signal Analysis and Interpretation:**
