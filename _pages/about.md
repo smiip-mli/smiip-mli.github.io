@@ -22,7 +22,7 @@ social: false
 
 **Welcome to the SMIIP Lab!**
 
-Our research interests lie in the areas of **intelligent speech processing** as well as **multimodal behavior signal analysis and interpretation**.
+Our research interests lie in the areas of **intelligent speech processing**, **Embodied Audition and Dialogue System** as well as **multimodal behavior signal analysis and interpretation**.
 
 **Intelligent Speech Processing:**
 
@@ -31,17 +31,18 @@ Our research interests lie in the areas of **intelligent speech processing** as 
 - Recognize, Manipulate, Generate and Hide Speaker’s Paralinguistic Attributes
 - Speech Generation, Watermarking and Anti-Spoofing Countermeasure
 
+**Embodied Audition and Dialogue System:**
+
+- Multi-speaker and Inteference-robust Spoken Dialogue System
+- Audio-Visual Behavior-aware Spoken Dialog System
+- AI Agent-Based Spoken Dialog System
+
 **Multimodal Behavior Signal Analysis and Interpretation:**
 
 - Audio-Visual Behavior Understanding in ASD Diagnose and Assessment
 - AI Agent for ASD Behavior Understanding and Intervention Planning
 
-**Spoken Dialog System:**
 
-- Embodied Audition and Dialogue System
-- Multi-speaker and Inteference-robust Spoken Dialogue System
-- Audio-Visual Behavior-aware Spoken Dialog System
-- AI Agent-Based Spoken Dialog System
 
 <br>
 <br>
