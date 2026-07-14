@@ -78,33 +78,35 @@ nav_order: 7
 
 **Supervised Undergraduate Students:**
 
-1. Zi Hu, Duke Kunshan University, class of 2027,
-2. Houmin Sun, Duke Kunshan University, class of 2027,
-3. Xiang Shi, Duke Kunshan University, class of 2027,
-4. Miantong Zhang, Duke Kunshan University, class of 2026，after graduation: Duke Master
-5. Xudong Chen, Duke Kunshan University, class of 2026，after graduation: Northwestern Master
-6. Zhengshan Zhang, Duke Kunshan University, class of 2026，after graduation: JHU Master
-7. Ziyue Yin, Duke Kunshan University, class of 2026，after graduation: JHU Master
-8. Zhang Chen, Duke Kunshan University, class of 2026，after graduation: Yale Master
-9. Mingjing Yi, Duke Kunshan University, class of 2025，after graduation: Columbia Master
-10. Beilong Tang, Duke Kunshan University, class of 2025: after graduation: NCSU PhD
-11. Yuxi Wang, Duke Kunshan University, class of 2025, after graduation: NTU Mphil
-12. Yuchen Song, Duke Kunshan University, class of 2025, after graduation: UCSD Master
-13. Yiwei Liang, Duke Kunshan University, class of 2025, after graduation: USTC PhD
-14. Mohamed Sami Koudir, Duke Kunshan University, class of 2025
-15. Xingyu Shen, Duke Kunshan University, class of 2024, after graduation: Duke Master
-16. Yueqian Lin, Duke Kunshan University, class of 2024, after graduation: Duke PhD
-17. Zhixian Zhang, Duke Kunshan University, class of 2024, after graduation: CMU Master
-18. Lixing Lu, Duke Kunshan University, class of 2024, after graduation: JHU Master
-19. Yubo Liu, Duke Kunshan University, class of 2024, after graduation: NYU Master
-20. Haozhe Zhang, Duke Kunshan University, class of 2022, after graduation: CMU Master
-21. Ziang Zhou, Duke Kunshan University, class of 2022, after graduation: CMU Master
-22. Yechen Wang, Duke Kunshan University, class of 2022, after graduation: USC Master
-23. Jiyang Tang, Duke Kunshan University, class of 2022, after graduation: CMU Master
-24. Tinglong Zhu, Duke Kunshan University, class of 2022, after graduation: CMU Master
-25. Jincheng He, Duke Kunshan University, class of 2022, after graduation: Duke Master
-26. Zhiyue Feng, Duke Kunshan University, class of 2022, after graduation: Duke Master
-27. Ran Ju, Duke Kunshan University, class of 2022, after graduation: CMU Master
-28. Xinmeng Chen, Duke Kunshan University, class of 2022, after graduation: Duke Master
-29. Xuchen Gong, Duke Kunshan University, class of 2022: after graduation: CMU Master
-30. Huangrui Chu, Duke Kunshan University, class of 2022, after graduation: Yale Master
+1. Yanxin Zhang, Northeastern University, class of 2027,
+2. Jiachi Zhang, South China University of Technology, class of 2027,
+3. Zi Hu, Duke Kunshan University, class of 2027,
+4. Houmin Sun, Duke Kunshan University, class of 2027,
+5. Xiang Shi, Duke Kunshan University, class of 2027,
+6. Miantong Zhang, Duke Kunshan University, class of 2026，after graduation: Duke Master
+7. Xudong Chen, Duke Kunshan University, class of 2026，after graduation: Northwestern Master
+8. Zhengshan Zhang, Duke Kunshan University, class of 2026，after graduation: JHU Master
+9. Ziyue Yin, Duke Kunshan University, class of 2026，after graduation: JHU Master
+10. Zhang Chen, Duke Kunshan University, class of 2026，after graduation: Yale Master
+11. Mingjing Yi, Duke Kunshan University, class of 2025，after graduation: Columbia Master
+12. Beilong Tang, Duke Kunshan University, class of 2025: after graduation: NCSU PhD
+13. Yuxi Wang, Duke Kunshan University, class of 2025, after graduation: NTU Mphil
+14. Yuchen Song, Duke Kunshan University, class of 2025, after graduation: UCSD Master
+15. Yiwei Liang, Duke Kunshan University, class of 2025, after graduation: USTC PhD
+16. Mohamed Sami Koudir, Duke Kunshan University, class of 2025
+17. Xingyu Shen, Duke Kunshan University, class of 2024, after graduation: Duke Master
+18. Yueqian Lin, Duke Kunshan University, class of 2024, after graduation: Duke PhD
+19. Zhixian Zhang, Duke Kunshan University, class of 2024, after graduation: CMU Master
+20. Lixing Lu, Duke Kunshan University, class of 2024, after graduation: JHU Master
+21. Yubo Liu, Duke Kunshan University, class of 2024, after graduation: NYU Master
+22. Haozhe Zhang, Duke Kunshan University, class of 2022, after graduation: CMU Master
+23. Ziang Zhou, Duke Kunshan University, class of 2022, after graduation: CMU Master
+24. Yechen Wang, Duke Kunshan University, class of 2022, after graduation: USC Master
+25. Jiyang Tang, Duke Kunshan University, class of 2022, after graduation: CMU Master
+26. Tinglong Zhu, Duke Kunshan University, class of 2022, after graduation: CMU Master
+27. Jincheng He, Duke Kunshan University, class of 2022, after graduation: Duke Master
+28. Zhiyue Feng, Duke Kunshan University, class of 2022, after graduation: Duke Master
+29. Ran Ju, Duke Kunshan University, class of 2022, after graduation: CMU Master
+30. Xinmeng Chen, Duke Kunshan University, class of 2022, after graduation: Duke Master
+31. Xuchen Gong, Duke Kunshan University, class of 2022: after graduation: CMU Master
+32. Huangrui Chu, Duke Kunshan University, class of 2022, after graduation: Yale Master
