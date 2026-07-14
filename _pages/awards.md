@@ -11,6 +11,7 @@ nav_order: 3
 
 - OPPO Excellent Industry-Academia Research Cooperation Partner, 2025
 - OPPO Excellent Industry-Academia Research Cooperation Partner, 2024
+- OPPO Excellent Industry-Academia Research Cooperation Partner, 2023
 - Interspeech 2024 Best Student Paper Shortlist
 - DKU ECE Teaching Award, 2024
 - DKU ECE Teaching Award, 2023
