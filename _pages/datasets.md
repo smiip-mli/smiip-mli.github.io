@@ -66,6 +66,15 @@ Haoxu Wang, Fan Yu, Xian Shi, Yuezhang Wang, Shiliang Zhang, Ming Li, "Slidespee
 
 **AISHELL6-Whisper** Cancan Li, Fei Su, Juan Liu, Hui Bu, Yulong Wan, Hongbin Suo, and Ming Li, “A Chinese Mandarin Audio-Visual Whisper Speech Dataset with Speech Recognition Baselines”, ICASSP, 2026. [https://zutm.github.io/AISHELL6-Whisper/](https://zutm.github.io/AISHELL6-Whisper/)
 
+**SSCC**:  Zhang Chen, Yucong Zhang, Xiaoxiao Miao, and Ming Li, “Toward Multimodal Fault Analysis: A Single-Speed Chain Conveyor Dataset with Audio and Vibration Signals”, Interspeech 2026 [SSCC Dataset](https://yucongzh.github.io/SSCC-Dataset/)
+
+**REAL-2MIX and VOXBLINK2-AVSE**: Peijun Yang, Zhan Jin, Xiaoyi Qin, Ruiyi Gan, Hao Wang, Juan Liu, Ming Li, “Identity-Faithful Audio-Visual Target Speaker Extraction with REAL-2MIX and VOXBLINK2-AVSE”, 2026. [https://arxiv.org/abs/2608.03964](https://arxiv.org/abs/2608.03964)
+
+**AISHELL8-RealScene**: Fei Su, Cancan Li, Juan Liu, and Ming Li, “M2S-AVSR: Modality-aware Multi-view Self-supervised Representation for Robust Audio-Visual Speech Recognition”, submitted to IEEE Transactions on Audio, Speech, and Language Processing, 2026. https://huggingface.co/datasets/SMIIP-lab/AISHELL8-RealScene
+
+**PC-Mix**: Zhenshan Zhang, Xueping Zhang, Linxi Li, Yechen Wang, and Ming Li, “Partial-Component Audio Spoofing Detection under Mixed Speech and Environmental Sound Conditions”, SLT 2026.  https://anonymous.4open.science/r/PC-Mix-3AFE/README.md
+
+
 ## Google Scholar
 
 [Prof. Ming Li - Google Scholar](https://scholar.google.com/citations?user=zp2Kz44AAAAJ)
