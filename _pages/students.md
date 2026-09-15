@@ -45,6 +45,10 @@ nav_order: 7
 13. Wenxing Liu, Duke Kunshan University, 2021-2022, after: WHU PhD
 14. Yucong Zhang, Duke Kunshan University, 2022-2023, after: WHU PhD
 15. Dong Liu, Duke Kunshan University, 2023-2024, after: WHU PhD
+16. Xueping Zhang, Duke Kunshan University, 2025-2026, after: Eurecom PhD
+17.	Yuanzhuo Hu, the Chinese University of Hong Kong at Shenzhen, 2026-2027
+18.	Jinbo Peng, the Chinese University of Hong Kong at Shenzhen, 2026
+
 
 **Full-time Administrative Assistants:**
 Li Li, Duke Kunshan University, 2019-2021, after: CSU PhD
@@ -96,6 +100,10 @@ Li Li, Duke Kunshan University, 2019-2021, after: CSU PhD
 12. Xiaoyi Qin, Sun Yat-sen University, 2017–2019，after graduation: WHU PhD
 13. Jinkun Chen, Sun Yat-sen University, 2016–2018，after graduation: Sougou
 14. Danwei Cai, Sun Yat-sen University, 2016–2018，after graduation: Duke PhD
+
+**Supervised Master Capstone Projects:**
+Zhengyang Liu, the Chinese University of Hong Kong at Shenzhen, 2026-2027
+
 
 **Supervised Undergraduate Students:**
 
