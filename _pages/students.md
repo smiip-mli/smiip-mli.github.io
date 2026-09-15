@@ -51,7 +51,9 @@ nav_order: 7
 
 
 **Full-time Administrative Assistants:**
+
 Li Li, Duke Kunshan University, 2019-2021, after: CSU PhD
+Mengling Ma, the Chinese University of Hong Kong at Shenzhen, 2026-
 
 **Supervised Master Students:**
 
@@ -102,6 +104,7 @@ Li Li, Duke Kunshan University, 2019-2021, after: CSU PhD
 14. Danwei Cai, Sun Yat-sen University, 2016–2018，after graduation: Duke PhD
 
 **Supervised Master Capstone Projects:**
+
 Zhengyang Liu, the Chinese University of Hong Kong at Shenzhen, 2026-2027
 
 
