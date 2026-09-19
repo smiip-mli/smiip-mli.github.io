@@ -8,10 +8,10 @@ nav_order: 4
 ---
 
 ### Chinese University of Hong Kong, Shenzhen
+
 - **AIE 3005** Singal Analysis and Representation (Fall26)
 - **AIE 1904** Building Your Intelligent Multi-Speaker Meeting Transcription System (Spring 2027)
 - **CSC 5052** Spoken Language Processing (Spring 2027)
-
 
 ### Duke Kunshan University
 

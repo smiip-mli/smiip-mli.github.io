@@ -4,7 +4,6 @@ title: about
 permalink: /
 subtitle: <strong>Speech and Multimodal Intelligent Information Processing (SMIIP) Lab</strong> at the Chinese University of Hong Kong, Shenzhen
 
-
 profile:
   align: right
   image: photo_mingli.jpg
@@ -15,6 +14,7 @@ profile:
     <p>Shenzhen, Guangdong, China</p>
     <img src="/assets/img/email.svg" alt="email" style="margin-top:6px;">
     <a href="https://scholar.google.com/citations?user=zp2Kz44AAAAJ" target="_blank"><img src="/assets/img/google_scholar.svg" alt="Google Scholar" style="margin-top:4px;"></a>
+    <a href="https://sai.cuhk.edu.cn/en/teacher/258" target="_blank"><img src="/assets/img/official_page.svg" alt="Official Page" style="margin-top:4px;"></a>
 
 news: true
 selected_papers: false
@@ -42,8 +42,6 @@ Our research interests lie in the areas of **intelligent speech processing**, **
 
 - Audio-Visual Behavior Understanding in ASD Diagnose and Assessment
 - AI Agent for ASD Behavior Understanding and Intervention Planning
-
-
 
 <br>
 <br>

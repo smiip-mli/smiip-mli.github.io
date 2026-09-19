@@ -30,6 +30,7 @@ nav_order: 7
 7. Weicheng Cai, Sun Yat-sen University, 2016–2020, co-supervised with Prof. Jun Zhang，after graduation: Tencent
 
 **Supervised Full-time Research Assistants:**
+
 1. Zexin Cai, Duke Kunshan University, 2018-2019, after: Duke PhD
 2. Danwei Cai, Duke Kunshan University, 2018-2019, after: Duke PhD
 3. Weiqing Cai, Duke Kunshan University, 2018-2019, after: Duke PhD
@@ -46,9 +47,8 @@ nav_order: 7
 14. Yucong Zhang, Duke Kunshan University, 2022-2023, after: WHU PhD
 15. Dong Liu, Duke Kunshan University, 2023-2024, after: WHU PhD
 16. Xueping Zhang, Duke Kunshan University, 2025-2026, after: Eurecom PhD
-17.	Yuanzhuo Hu, the Chinese University of Hong Kong at Shenzhen, 2026-2027
-18.	Jinbo Peng, the Chinese University of Hong Kong at Shenzhen, 2026
-
+17. Yuanzhuo Hu, the Chinese University of Hong Kong at Shenzhen, 2026-2027
+18. Jinbo Peng, the Chinese University of Hong Kong at Shenzhen, 2026
 
 **Full-time Administrative Assistants:**
 
@@ -107,7 +107,6 @@ Mengling Ma, the Chinese University of Hong Kong at Shenzhen, 2026-
 
 Zhengyang Liu, the Chinese University of Hong Kong at Shenzhen, 2026-2027
 
-
 **Supervised Undergraduate Students:**
 
 1. Yanxin Zhang, Northeastern University, class of 2027,
@@ -136,16 +135,16 @@ Zhengyang Liu, the Chinese University of Hong Kong at Shenzhen, 2026-2027
 24. Yechen Wang, Duke Kunshan University, class of 2022, after graduation: USC Master
 25. Jiyang Tang, Duke Kunshan University, class of 2022, after graduation: CMU Master
 26. Tinglong Zhu, Duke Kunshan University, class of 2022, after graduation: CMU Master
-28. Jincheng He, Duke Kunshan University, class of 2022, after graduation: Duke Master
-29. Zhiyue Feng, Duke Kunshan University, class of 2022, after graduation: Duke Master
-30. Ran Ju, Duke Kunshan University, class of 2022, after graduation: CMU Master
-31. Xinmeng Chen, Duke Kunshan University, class of 2022, after graduation: Duke Master
-32. Xuchen Gong, Duke Kunshan University, class of 2022: after graduation: CMU Master
-33. Huangrui Chu, Duke Kunshan University, class of 2022, after graduation: Yale Master
-34. Tianyan Zhou, Sun Yat-sen University, after graduation: CMU master
-35. Junyou Dong, Sun Yat-sen University, after graduation: CMU master
-36. Weitao Wen, Sun Yat-sen University, after graduation: CMU master
-37. Xuchen Song, SCUT, after graduation: CMU master
-38. Chenghao Zhang, Sun Yat-sen University, after graduation: CMU master
-39. Xingchang Huang, Sun Yat-sen University, after graduation: ETH Zurich master
-40. Hao Xu, Sun Yat-sen University, after graduation: CMU master
+27. Jincheng He, Duke Kunshan University, class of 2022, after graduation: Duke Master
+28. Zhiyue Feng, Duke Kunshan University, class of 2022, after graduation: Duke Master
+29. Ran Ju, Duke Kunshan University, class of 2022, after graduation: CMU Master
+30. Xinmeng Chen, Duke Kunshan University, class of 2022, after graduation: Duke Master
+31. Xuchen Gong, Duke Kunshan University, class of 2022: after graduation: CMU Master
+32. Huangrui Chu, Duke Kunshan University, class of 2022, after graduation: Yale Master
+33. Tianyan Zhou, Sun Yat-sen University, after graduation: CMU master
+34. Junyou Dong, Sun Yat-sen University, after graduation: CMU master
+35. Weitao Wen, Sun Yat-sen University, after graduation: CMU master
+36. Xuchen Song, SCUT, after graduation: CMU master
+37. Chenghao Zhang, Sun Yat-sen University, after graduation: CMU master
+38. Xingchang Huang, Sun Yat-sen University, after graduation: ETH Zurich master
+39. Hao Xu, Sun Yat-sen University, after graduation: CMU master
