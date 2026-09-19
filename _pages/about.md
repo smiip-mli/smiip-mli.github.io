@@ -3,6 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: <strong>Speech and Multimodal Intelligent Information Processing (SMIIP) Lab</strong> at the Chinese University of Hong Kong, Shenzhen
+https://sai.cuhk.edu.cn/en/teacher/258
 
 profile:
   align: right
