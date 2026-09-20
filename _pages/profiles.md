@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
+title: Faculty
 description: Members of the Speech and Multimodal Intelligent Information Processing Lab
 nav: true
 nav_order: 1
